@@ -32,7 +32,9 @@ for bug reports and feature requests.
 Contributing
 ============
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and open a pull request.
+Please contribute using `GitHub Flow <https://guides.github.com/introduction/flow/>`_.
+Create a branch, add commits,
+and `open a pull request <https://github.com/eggshell/archlinux-docker/compare/>`_.
 
 =======
 License
