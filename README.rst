@@ -2,6 +2,8 @@
 archlinux-docker
 ================
 
+.. image:: https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg
+    :target: https://hub.docker.com/r/eggshell/archlinux/builds/
 .. image:: https://img.shields.io/badge/License-MIT-yellow.svg
     :target: https://opensource.org/licenses/MIT
 
